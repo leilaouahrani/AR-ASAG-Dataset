@@ -57,6 +57,7 @@ Students submitted answers to these questions.
 The number of answers obtained is different from one question to another. 
 The dataset includes a total of 2133 pairs (Model Answer, student answer). 
 the Dataset encompasses 5 types of questions:
+
 •	"عرف ": 		Define?
 •	"إشرح":			Explain?
 •	"ما النتائج المترتبة على": 	What consequences?
@@ -124,8 +125,8 @@ year = {2020},
 address = {Marseille, France},
 publisher = {European Language Resources Association},
 pages = {2634--2643},
-url = {https://www.aclweb.org/anthology/2020.lrec-1.321}
-https://www.aclweb.org/anthology/2020.lrec-1.321/
+url = {https://www.aclweb.org/anthology/2020.lrec-1.321/ }
+
 }
 =======================
 5. Acknowledgments
