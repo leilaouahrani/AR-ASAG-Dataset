@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dataroot>
+  <Question>
+    <Question_ID>1</Question_ID>
+    <Question_Type>1</Question_Type>
+    <Question_Arabic>عرف مصطلح الجريمة الإلكترونية </Question_Arabic>
+    <Model_Arabic>هي كل سلوك غير قانوني يتم باستخدام الأجهزة الإلكترونية) الهاتف، الكمبيوتر، الانترنت (ينتج عنه حصول المجرم على فوائد مادية أو معنوية مع تحميل الضحية خسارة   وغالبا ما يكون هدف هذه الجرائم هو القرصنة من أجل سرقة أو إتلاف المعلومات وتكون عادة الانترنت أداة لها أو مسرحا لها</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>2</Question_ID>
+    <Question_Type>1</Question_Type>
+    <Question_Arabic>عرف مصطلح أمن المعلومات</Question_Arabic>
+    <Model_Arabic>حماية وتأمين كافة الموارد المستخدمة في معالجة المعلومات من منشآت نفسها والأفراد العاملين فيها وأجهزة الحاسب المستخدمة فيها ووسائط المعلومات التي تحتوي على البيانات    وذلك في جميع مراحل تواجد المعلومة (التخزين – النقل – المعالجة)</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>3</Question_ID>
+    <Question_Type>1</Question_Type>
+    <Question_Arabic>عرف مصطلح الهندسة الاجتماعية النفسية</Question_Arabic>
+    <Model_Arabic>هي ممارسة تستخدم أساليب التلاعب النفسي (العقلي) لإيذاء و خداع الآخرين والحصول على معلومات سرية يتم من خلالها اختراق الأمن بسبل غير تقنية عن طريق الهاتف أو البريد الالكتروني أو صفحات الانترنت أو وجها لوجه</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>4</Question_ID>
+    <Question_Type>1</Question_Type>
+    <Question_Arabic>عرف مصطلح تبييض أو غسيل الأموال </Question_Arabic>
+    <Model_Arabic>إضفاء صفة المشروعية على الأموال القذرة المتأتية غالبا من التجارة غير المشروعة في المخدرات أو غيرها   بتوظيفها في نشاطات وهمية على الانترنت</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>5</Question_ID>
+    <Question_Type>1</Question_Type>
+    <Question_Arabic>عرف مصطلح القياس الحيوي</Question_Arabic>
+    <Model_Arabic>هو العلم الذي يستخدم التحليل الإحصائي لصفات الإنسان الحيوية وذلك للتأكد من هويته الشخصية باستخدام صفاته الفريدة وهي صفات سلوكية وصفات فيزيائية</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>6</Question_ID>
+    <Question_Type>1</Question_Type>
+    <Question_Arabic>عرف مصطلح الجريمة المنظمة على الانترنت</Question_Arabic>
+    <Model_Arabic>هي عنف منظم تقوم به جماعات ترتكب أفعالا تخترق بها القانون للحصول على مكاسب مالية، بطرق وأساليب غير مشروعة تنفذ بعد تدبير وتنظيم</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>1</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>ما هي الأصناف الرئيسية للبرمجيات الماكرة</Question_Arabic>
+    <Model_Arabic>   الفيروسات ، والدود ، وأحصنة طروادة، وبرامج الإنزال</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>2</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>  ماهي أشكال المضايقات التي يمكن أن يتعرض لها مستخدم وسائل التواصل الاجتماعي(فايسبوك، ...) ؟</Question_Arabic>
+    <Model_Arabic>المعاكسات، السب والقذف، التشهير، تخويف أو تهديد، نشر صور غير لائقة</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>3</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>ما نوع الجريمة الإلكترونية التي قد تكون أنت  ضحيتها عبر بريد إلكتروني يخبرك بأن شخصا يريد أن يتقاسم معك جوائز أو أموالا؟</Question_Arabic>
+    <Model_Arabic>جرائم النصب والاحتيال تصنف في المجموعة الأولى التي تقع على الانترنت أي أن الشبكة تكون محلا لها</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>4</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>ماهي الأسس التي يجب إتباعها للحد من انتشار الجريمة الإلكترونية؟</Question_Arabic>
+    <Model_Arabic>ثقافة أمن المعلومات، التشريع القانوني، التربية وثقافة الوعي واستعمال وسائل الحماية الفنية، الإدارية والمادية </Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>5</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>ماهي أركان  تأمين المعلومات إزاء الانتهاكات المحتملة  من  مستخدمي النظام المعلوماتي؟</Question_Arabic>
+    <Model_Arabic>تحديد هوية المستخدم، إثبات هوية المستخدم،  صلاحيات المستخدم، تحديد مسئوليات المستخدم، الخصوصية  و عدم الإنكار </Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>6</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>بماذا تقاس قوة سلسلة الأمن للنظام المعلوماتي ؟</Question_Arabic>
+    <Model_Arabic>تقاس بقوة أضعف حلقة فيها وهي الإنسان (العنصر البشري) .</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>7</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>ما هي الخصائص التي يتمتع بها  قراصنة الأنظمة؟</Question_Arabic>
+    <Model_Arabic>ذكاء و قدرة عاليتين على كتابة وتصميم البرامج، وفهم عميق لكيفية عمل الحاسب الآلي والقدرة على اختراق أنظمة الأمان وتكسيرها</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>8</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>ماهي الطرق المستعملة في الهندسة الاجتماعية النفسية ؟</Question_Arabic>
+    <Model_Arabic>استخدام أساليب التلاعب النفسي عن طريق - الهاتف - صفحات الانترنت-   البريد الالكتروني وجها لوجه.</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>9</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>ماهي الجرائم المترتبة عن عملية إختراق لموقع  على الشبكة؟</Question_Arabic>
+    <Model_Arabic>تغيير أو سرقة أو  إزالة المعلومات التي يطالها المخترق، تخريب وتعطيل الأجهزة، تغيير وجه المواقع ، تبطئة حركة التصفح وانقطاعها على فترات.</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>10</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>ماهي وظيفة برنامج راصد لوحة المفاتيح؟</Question_Arabic>
+    <Model_Arabic>تسجيل جميع ضغطات المفاتيح  وبالتالي كل كلمات المرور المدخلة على الكمبيوتر و أرقام البطاقات الائتمانية لغرض السرقة كما يستعمل أيضا لإثبات الهوية كقياس حيوي سلوكي .</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>11</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic> ماهي ابرز طرق انتشار الفيروسات</Question_Arabic>
+    <Model_Arabic>البريد الإلكتروني و البرامج التي يتم تحميلها من الانترنت خاصة من المواقع المشبوهة</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>12</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>أذكر الصفات الفيزيائية التي تستعمل عادة في القياس الحيوي</Question_Arabic>
+    <Model_Arabic>الحمض النووي - قزحية العين - بصمة اليد -  بصمة الإصبع - الوجه </Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>13</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>أذكر الصفات السلوكية التي تستخدم عادة في القياس الحيوي</Question_Arabic>
+    <Model_Arabic>الصوت - التوقيع اليدوي - ضربات لوحة المفاتيح </Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>14</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>ماهي أهم تقنيات تحديد وإثبات هوية المستخدم وصلاحياته ومسئولياته</Question_Arabic>
+    <Model_Arabic>كلمة المرور ،القياس الحيوي ،التشفير ، الجدران النارية، التوقيع الالكتروني. </Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>15</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic> ماهي الأساليب الشائعة المستعملة في اختراق الأنظمة ؟</Question_Arabic>
+    <Model_Arabic>استغلال عيب في البرامج أو الأجهزة للحصول بشكل غير قانوني على كلمة المرور ، إنشاء مواقع انتحال الشخصية، تثبيت أجهزة أو برامج تسجيل ضغط المفاتيح، الإغراق بالرسائل، الفيروسات و الهندسة الاجتماعية .</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>16</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>فيم تتمثل جرائم الملكية الفكرية؟</Question_Arabic>
+    <Model_Arabic>النسخ  غير القانوني  للبرامج، توزيع المواد ذات حقوق النشر بطريقة غير قانونية بما في ذلك الصور في الصيغة الإلكترونية والمطبوعة، والمواد المرئية والسمعية والمخزنة على شرائط أو أقراص مرنة، أو أقراص مدمجة أو على الحاسب.</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>17</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>ما نوع الجرائم التي يقترفها موقع ويكيليكس وأين تصنفها بالنسبة للتصنيف العام؟</Question_Arabic>
+    <Model_Arabic>جرائم القرصنة وانتهاك الخصوصية. تصنف في المجموعة الاولى  التي تقع على الانترنت  أي أن الشبكة تكون محلا لها</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>18</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>كيف تتم جريمة التجسس الصناعي على الانترنت ؟</Question_Arabic>
+    <Model_Arabic>يتم اختراق و تنزيل الأسرار الصناعية من كمبيوتر في إحدى الشركات وإرسالها بالبريد الإلكتروني مباشرة إلى منافستها، و قد تتم سرقة اختراع جديد في تكنولوجيا الكمبيوتر وبيعه بمبلغ كبير من المال بالإضافة إلى فساد وتواطؤ الموظفين</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>19</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>كيف توظف شبكة الانترنت في تعزيز جرائم الإرهاب الإلكتروني؟</Question_Arabic>
+    <Model_Arabic>استخدام الانترنت في التجنيد والتدريب وتبادل المعلومات بين المنظمات الإرهابية المختلفة بإنشاء وتصميم مواقع لنشر الأفكار الإرهابية  و تعليم الطرق والوسائل التي تساعد على القيام بالعمليات الإرهابية، استهداف البنية التحتية للمعلومات للمؤسسات للتأثير على الرأي العام العالمي.</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>20</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>أذكر أنواع الجرائم الإلكترونية المالية</Question_Arabic>
+    <Model_Arabic>جرائم السطو على أرقام البطاقات الائتمانية ، تزوير البيانات ، الجرائم المنظمة ، تجارة المخدرات، غسيل الأموال.  </Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>21</Question_ID>
+    <Question_Type>2</Question_Type>
+    <Question_Arabic>ماهي الجوانب  الواجب إثراؤها في القانون الجنائي التقليدي لتكييفه مع واقع  الجريمة الالكترونية في  بلادنا؟</Question_Arabic>
+    <Model_Arabic>تطوير الخبرة الفنية للمحققين المتعلقة باستعمال التكنولوجيا في إثبات الجرائم، توسيع وإدراج مختلف أنواع الجرائم الالكترونية تحت طائلة التشريع القانوني.</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>1</Question_ID>
+    <Question_Type>3</Question_Type>
+    <Question_Arabic>ماهي النتائج المترتبة عن  إصابة  النظام المعلوماتي بحصان طروادة ؟  </Question_Arabic>
+    <Model_Arabic>يتحكم الهاكر في الجهاز المخترق عبر باب خلفي يمكنه من : سرقة المعلومات كسرقة البريد الالكتروني، أو سرقة الهوية، تحميل ملفات من وإلى هذا الجهاز دون علم صاحبه، تركيب برمجيات تجسس على الجهاز.</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>2</Question_ID>
+    <Question_Type>3</Question_Type>
+    <Question_Arabic>ما هي النتائج المترتبة على استعمال تقنيات القياس الحيوي في الدخول إلى النظام المعلوماتي؟</Question_Arabic>
+    <Model_Arabic>الأمن والخصوصية، البديل لحمل الوثائق الثبوتية ، البديل لحفظ وتذكر الأرقام السرية، تأمين سرية العمليات المالية.</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>3</Question_ID>
+    <Question_Type>3</Question_Type>
+    <Question_Arabic>ما النتائج المترتبة عن تطبيق سياسة أمن المعلومات في النظام المعلوماتي ؟</Question_Arabic>
+    <Model_Arabic>التوفير و السرية و التكامل للمعلومات</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>4</Question_ID>
+    <Question_Type>3</Question_Type>
+    <Question_Arabic>ما النتائج المترتبة على تطبيق اختبار الاختراق من طرف الهاكر؟</Question_Arabic>
+    <Model_Arabic>تقارير إلى المنظمة بكيفية اختراق النظام مما يسمح للمنظمة بتحسين دفاعاتها ورفع مستوى الأمن ، ثغرات أمنية تسمح للمطور بتصحيح منتجه وتحسين أمانه قبل اختراقه .</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>5</Question_ID>
+    <Question_Type>3</Question_Type>
+    <Question_Arabic>ما النتائج اللااخلاقية المترتبة على اختراق قراصنة القبّعات الرمادية لنظام مؤسسة ما ؟</Question_Arabic>
+    <Model_Arabic>اختراق نظام أمن بدون إذن، كشف العيوب الأمنية في البرامج أو على مواقع الويب بشكل عام بدلاً من كشف الخلل بشكل خاص إلى المؤسسة وإعطائها الوقت لإصلاحه مما يعطي الفرصة لاستغلاله من طرف قراصنة القبعات السوداء .</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>6</Question_ID>
+    <Question_Type>3</Question_Type>
+    <Question_Arabic>  ما النتائج المترتبة على استعمال الخادم الوكيل في شبكة مؤسسة ما ؟</Question_Arabic>
+    <Model_Arabic>حجب  المواقع ، إعداد إحصاءات عن المواقع الإلكترونية لاستعمالها من طرف وكالات التسويق ، توفير عرض النطاق الترددي، إعداد إحصاءات المستخدم.</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>1</Question_ID>
+    <Question_Type>4</Question_Type>
+    <Question_Arabic>علّل لماذا يشكل الإنسان الحلقة الضعيفة في سلسلة الأمن المعلوماتي؟</Question_Arabic>
+    <Model_Arabic>يثق الإنسان بالآخرين فيسهل خداعه عن طريق الهندسة الاجتماعية النفسية بحيث يمكن اختراق الأمن بسبل غير تقنية ، لا توجد تقنية تمنع خداع الإنسان، اختراق الإنسان أسهل من اختراق الأجهزة خاصة في ضوء قلة التوعية.</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>2</Question_ID>
+    <Question_Type>4</Question_Type>
+    <Question_Arabic>علّل تزايد فرص الإجرام الإلكتروني عبر العالم؟</Question_Arabic>
+    <Model_Arabic>تزايد عدد المخترقين ويقابلها زيادة عدد الثغرات الأمنية للأجهزة والبرامج يوفر فرصاً للإجرام الإلكتروني بالإضافة إلى تطور برامج الاختراق وسهولة استعمالها</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>3</Question_ID>
+    <Question_Type>4</Question_Type>
+    <Question_Arabic>علّل كيف يكون تطوير البرامج الضخمة تحديا صعبا في مجال الأمن المعلوماتي ؟ </Question_Arabic>
+    <Model_Arabic>إن تطوير البرامج الضخمة ينتج عنه ثغرات أمنية أكثر وصعوبات في التحكم فيها خاصة مع تزايد عدد المخترقين وسرعة الهجمات )كلما كبر البرنامج كلما كبرت الثغرات الأمنية(</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>4</Question_ID>
+    <Question_Type>4</Question_Type>
+    <Question_Arabic>علّل لماذا لا تفكر المؤسسات غالبا في دعم سياسة الأمن في وقت مبكر من تصميم وتطوير النظام المعلوماتي ؟</Question_Arabic>
+    <Model_Arabic>لأن العائد المادي لسياسة الأمن المبكر غير منظور مسبقا في غياب ثقافة الأمن</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>5</Question_ID>
+    <Question_Type>4</Question_Type>
+    <Question_Arabic>علّل عدم وجود إحصائيات حقيقية للجريمة الإلكترونية ؟</Question_Arabic>
+    <Model_Arabic>نظرا لتكتم الضحايا على الجرائم تفاديا للإعلان والتشهير لما فيه من إساءة للعائلات أو لسمعة المؤسسات بالإضافة إلى أن الكثير من الجرائم لا تترك أثرا</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>6</Question_ID>
+    <Question_Type>4</Question_Type>
+    <Question_Arabic>علّل لماذا يصعب إثبات الجرائم الإلكترونية ؟</Question_Arabic>
+    <Model_Arabic>لا تترك أثرا لها بعد ارتكابها، تحتاج إلى خبرة فنية ويصعب على المحقق التقليدي التعامل معها، تعتمد على الخداع في ارتكابها، والتضليل في التعرف على مرتكبيها، تعتمد على قمة الذكاء .    </Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>7</Question_ID>
+    <Question_Type>4</Question_Type>
+    <Question_Arabic>علّل كيف يمكن لمؤسسة ما أن تتعرف على عادات المستخدمين لشبكتها ؟</Question_Arabic>
+    <Model_Arabic>بفضل الخادم الوكيل (البروكسي) الذي يقوم بإعداد إحصاءات عن المستخدمين و عن المواقع الإلكترونية التي يتصفحونها</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>8</Question_ID>
+    <Question_Type>4</Question_Type>
+    <Question_Arabic>علل صعوبة استعمال التشريع القانوني العادي في مكافحة الجريمة الإلكترونية؟</Question_Arabic>
+    <Model_Arabic>نقص الخبرة الفنية للمحققين المتعلقة باستعمال التكنولوجيا في إثبات الجرائم و عدم إدراج مختلف أنواع الجرائم الالكترونية في التشريع القانوني لأنها جرائم جديدة.</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>9</Question_ID>
+    <Question_Type>4</Question_Type>
+    <Question_Arabic>علل أهمية أمن المعلومات في تصميم النظام المعلوماتي ؟</Question_Arabic>
+    <Model_Arabic>النمو السريع في استخدامات التطبيقات الإلكترونية واستخدام الانترنت  والتي تتطلب بيئة آمنة. (التجارة الإلكترونية، والحكومة الإلكترونية.) ، سرعة تغير مجال التقنية المعلوماتية، تزايد عدد المخترقين ويقابلها زيادة عدد الثغرات الأمنية.</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>10</Question_ID>
+    <Question_Type>4</Question_Type>
+    <Question_Arabic>علل صحة العبارة: الإحساس الخاطئ بالأمن أخطر من الإحساس الصحيح بعدم الأمن ؟</Question_Arabic>
+    <Model_Arabic>الإحساس الخاطئ بالأمن أمر خطير لأنه يؤدي إلى إهمال التدابير الأمنية ، على الرغم من عدم وجود نظام أمني مثالي  فيما يساعد الشعور العام بانعدام الأمن على منع المخاطر الأمنية  وتعزيز سياسة الأمن</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>1</Question_ID>
+    <Question_Type>5</Question_Type>
+    <Question_Arabic>ما الفرق بين عمل قراصنة القبعات البيضاء و عمل قراصنة القبعات السوداء؟</Question_Arabic>
+    <Model_Arabic>للاثنين القدرة على اختراق أنظمة التشغيل والبرامج والشبكات ولكن الكراكر(قرصان  "القبعة السوداء") عمله تخريبي ولا ينفع سوى نفسه أو من يدفع له أما الهاكر (قرصان "القبعة البيضاء") فعمله مفيد و ينفع الآخرين </Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>2</Question_ID>
+    <Question_Type>5</Question_Type>
+    <Question_Arabic>ما الفرق بين عمل قراصنة القبعات  الرمادية و عمل قراصنة القبعات السوداء؟</Question_Arabic>
+    <Model_Arabic>الاثنين عملهما تخريبي لتحقيق مكاسب شخصية بالنسبة لقراصنة القبعات السوداء و بدون  مكاسب بالنسبة لقراصنة القبعات الرمادية التي ترتكب جرائم غير أخلاقية  كاختراق نظام أمان بدون إذن أو الكشف العلني لعيوب الأمن في أنظمة المؤسسات وإن كانت بدون نية تخريبية مسبقة</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>3</Question_ID>
+    <Question_Type>5</Question_Type>
+    <Question_Arabic>ما الفرق بين الدود والفيروسات؟</Question_Arabic>
+    <Model_Arabic>الدود و الفيروسات برامج ماكرة هدفها تخريبي تختلف في طريقة العمل أو الهجوم فبينما يكرر الفيروس نفسه باقترانه ببرامج أخرى تستغل الدودة فجوات في نظام التشغيل للقيام بهجوم مباشر        </Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>4</Question_ID>
+    <Question_Type>5</Question_Type>
+    <Question_Arabic>ما الفرق بين القرصنة واختبار الاختراق؟</Question_Arabic>
+    <Model_Arabic>القرصنة هي جريمة اختراق وسرقة معلومات يقوم بها قراصنة القبعات السوداء دون اذن لاغراض تخريبية أما اختبار الاختراق فيتم فيه توظيف العديد من ذوي القبعات البيضاء لاختبار أنظمة أمان أجهزة الكمبيوتر في المؤسسات مما يسمح بتحديد عيوبها وثغراتها قصد تحسين دفاعاتها</Model_Arabic>
+  </Question>
+  <Question>
+    <Question_ID>5</Question_ID>
+    <Question_Type>5</Question_Type>
+    <Question_Arabic>ما الفرق بين الفيروس و برنامج الإنزال ؟</Question_Arabic>
+    <Model_Arabic>الفيروس و برنامج الإنزال برامج ماكرة هدفها تخريبي تختلف في طريقة العمل أو الهجوم فبينما يكرر الفيروس نفسه باقترانه ببرامج أخرى يقوم برنامج الإنزال بمراوغة برامج مكافحة الفيروسات بنقل وتركيب الفيروسات المحمولة في طياته</Model_Arabic>
+  </Question>
+</dataroot>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<dataroot>
+  <Type>
+    <Type_ID>1</Type_ID>
+    <Type_Text_Arabic>عرف المصطلح العلمي</Type_Text_Arabic>
+    <Type_Text_English>Define the scientific term</Type_Text_English>
+  </Type>
+  <Type>
+    <Type_ID>2</Type_ID>
+    <Type_Text_Arabic>اٍشرح</Type_Text_Arabic>
+    <Type_Text_English>Explain</Type_Text_English>
+  </Type>
+  <Type>
+    <Type_ID>3</Type_ID>
+    <Type_Text_Arabic>ما النتائج المترتبة على</Type_Text_Arabic>
+    <Type_Text_English>What the consequences of</Type_Text_English>
+  </Type>
+  <Type>
+    <Type_ID>4</Type_ID>
+    <Type_Text_Arabic>علل</Type_Text_Arabic>
+    <Type_Text_English>Why</Type_Text_English>
+  </Type>
+  <Type>
+    <Type_ID>5</Type_ID>
+    <Type_Text_Arabic>ما الفرق بين</Type_Text_Arabic>
+    <Type_Text_English>what is the difference between</Type_Text_English>
+  </Type>
+</dataroot>
