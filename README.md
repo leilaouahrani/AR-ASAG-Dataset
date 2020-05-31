@@ -14,27 +14,7 @@ Automatic Short Answer Grading Evaluation, V. 1.0, ISLRN 529-005-230-448-6.
                                    
                                 November 25th, 2019
 
-                           Leila OUAHRANI* , Djamal BENNOUAR**
-
-                                 Bouira University 
-                                       Algeria 
-
-                                *l_ouahrani@univ-blida.dz  
-                                **djamal.bennouar@univ-bouira.dz 
-
-  
-
-CONTENTS
-1. Introduction
-2. Data Set
-2.a. Data Annotation
-2.b. Folder Structure
-3. Feedback
-4. Citation Info
-5. Acknowledgments
-
-
-
+                   
 
 =======================
 1. Introduction
@@ -111,8 +91,6 @@ For privacy reasons, no student identifiers are used in this Dataset.
 For further questions or inquiries about this dataset, you can contact:
 l_ouahrani@univ-blida.dz  
  
-
-
 =======================
 4. Citation Info 
 
