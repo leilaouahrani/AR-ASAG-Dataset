@@ -1,5 +1,5 @@
 
-AR-ASAG  An ARabic Dataset for Automatic Short Answer Grading Evaluation   
+AR-ASAG  The ARabic Dataset for Automatic Short Answer Grading Evaluation   
 
 
 
@@ -10,13 +10,13 @@ AR-ASAG  An ARabic Dataset for Automatic Short Answer Grading Evaluation
                                    
                                 November 25th, 2019
 
-                           Leila OUAHRANI, Djamal BENNOUAR
+                           Leila OUAHRANI*, Djamal BENNOUAR**
 
                                  Bouira University 
                                        Algeria 
 
-                                l_ouahrani@univ-blida.dz  
-                                djamal.bennouar@univ-bouira.dz 
+                                *l_ouahrani@univ-blida.dz  
+                                **djamal.bennouar@univ-bouira.dz 
 
   
 
@@ -82,10 +82,6 @@ For privacy reasons, no student identifiers are used in this Dataset.
 
      Sub-Folders :
 
-	Database-Version folder : 
-		File : (DATA BASE FILE - ALL DATASET -Questions - Model Answers - Student Answers - Grade1 Grade2).DB
-		Can be read with DBMS editor(SQL-Server, SQLite Viewer with Google Drive, ...) 
-
 	TXT-Version folder : 
 		Files : (Model Answers List - 48).txt
 			(Questions List - 48).txt
@@ -93,8 +89,7 @@ For privacy reasons, no student identifiers are used in this Dataset.
 			(Number Of Answers  For Each Question For the 48 Questions).txt
 			(Questions- Model Answers - Student Answers - Average Gold).txt
 			(Questions- Model Answers - Student Answers - Grade1- Grade2-  Average Gold).txt
-			(AR-ASAG-480).txt : A sampling  sub dataset of 480 couples (48*10) of (model answer, student answer) including all question types. 
-					    It's obtained after a randomized split and then the first ten answers are selected for each question.
+			(AR-ASAG-480).txt : A sampling  sub dataset of 480 couples (48*10) of (model answer, student answer) including                                               all questions. It's obtained after a randomized split and then the first ten answers are                                                 selected for each question.
 	XML-Version Folder :
 		Files : (Type - Questions).xml
 			(Questions-Model Answers).xml
