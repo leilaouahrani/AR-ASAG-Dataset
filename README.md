@@ -1,10 +1,9 @@
 # AR-ASAG-Dataset
 The  ARabic Dataset for Automatic Short Answer Grading Evaluation   
 
-Language Resource Reference : (AR-ASAG Dataset, 2020). The Arabic Dataset for
-Automatic Short Answer Grading Evaluation, V. 1.0, ISLRN 529-005-230-448-6. 
-
-
+Language Resource Reference : (AR-ASAG Dataset, 2020). 
+The Arabic Dataset for  Automatic Short Answer Grading Evaluation, V. 1.0, 
+ISLRN 529-005-230-448-6. 
 
 
                         Questions/Student Answers with Grades
@@ -20,7 +19,7 @@ Automatic Short Answer Grading Evaluation, V. 1.0, ISLRN 529-005-230-448-6.
 1. Introduction
 
 This README v1.0 (November, 2019) for the Arabic Automatic Short Answer Grading Dataset
-This is a dataset to explore and research the Automatic Short Answer Grading (ASAG) field. 
+This is a dataset to explore and research for the Automatic Short Answer Grading (ASAG) field. 
  
 
 =======================
