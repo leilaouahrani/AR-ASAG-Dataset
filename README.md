@@ -14,7 +14,7 @@ The  ARabic Dataset for Automatic Short Answer Grading Evaluation
 1. Introduction
 
 This README v1.0 (November, 2019) for the Arabic Automatic Short Answer Grading Dataset
-This is a dataset to explore and research for the Automatic Short Answer Grading (ASAG) field. 
+This is a dataset to explore research for the Automatic Short Answer Grading (ASAG) field. 
  
 
 =======================
